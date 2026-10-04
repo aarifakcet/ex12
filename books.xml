@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bookstore>
+
+    <book>
+        <title>The last light of tomorrow</title>
+        <author>AARIFA</author>
+        <genre>romance</genre>
+        <year>1945</year>
+        <price>15.23</price>
+    </book>
+
+    <book>
+        <title>Whispers beyond the moon</title>
+        <author>Praveen Kumar</author>
+        <genre>mystery thriller</genre>
+        <year>1987</year>
+        <price>15.90</price>
+    </book>
+
+    <book>
+        <title>the girl who chased dreams</title>
+        <author>Nazreen</author>
+        <genre>fantasy</genre>
+        <year>1999</year>
+        <price>19.00</price>
+    </book>
+
+</bookstore>
